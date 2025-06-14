@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KunalTiwariGit
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning AWS Solutions Architect to grow my career in Cloud
+- 👋 Hi, I’m Kunal Tiwari
+- 👀 I’ve hands-on experience working with Microsoft Azure products specializing in Azure SQL Database, Managed Instance and Azure Database Migration Service.
+- 🌱 I've decided to boost my skills with Azure Devops to enhance my growth in cloud computing world.
 - 📫 How to reach me..?(kunal.tiwari.1069@gmail.com)
 
 <!---
